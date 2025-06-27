@@ -1,0 +1,25 @@
+# PHP-specific
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+
+# Composer
+/vendor/
+composer.lock
+
+# Dotenv
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime*
+
+# Node (if accidentally added)
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+{
+    "input_email": "nahid@example.com",
+    "input_pass": "password123",
+    "user_email": "nahid@example.com",
+    "user_hash": "$2y$10$TKh8H1.PFhLzMZ6zS1Nnae5UQAFo8aN9L\/nJ.1AzS3ULf8y0sHdae"
+}
